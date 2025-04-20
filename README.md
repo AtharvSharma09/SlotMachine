@@ -190,17 +190,17 @@ slot_machine.py: Main script containing the SlotMachine class and game logic.
 
 ## Example
 
----------------------------------
+
 Enter the amount you want to deposit: $100
 Enter the number of lines you want to bet on (1, 2, 3): 2
 Enter the amount you want to bet: $20
----------------------------------
+
 A | B | C
 7 | 7 | 7
 X | X | X
----------------------------------
+
 You won: $100
----------------------------------
+
 Your balance: $180
 Press 'q' to cash out or 'r' to continue: q
 Thanks for playing!
